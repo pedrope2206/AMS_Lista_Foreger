@@ -1,0 +1,16 @@
+C:\projetos\ams\1ano\semestre2\arraycollection\AMS_Lista_Foreger\bin\Debug\net5.0\AMS_Lista_Foreger.exe
+C:\projetos\ams\1ano\semestre2\arraycollection\AMS_Lista_Foreger\bin\Debug\net5.0\AMS_Lista_Foreger.deps.json
+C:\projetos\ams\1ano\semestre2\arraycollection\AMS_Lista_Foreger\bin\Debug\net5.0\AMS_Lista_Foreger.runtimeconfig.json
+C:\projetos\ams\1ano\semestre2\arraycollection\AMS_Lista_Foreger\bin\Debug\net5.0\AMS_Lista_Foreger.runtimeconfig.dev.json
+C:\projetos\ams\1ano\semestre2\arraycollection\AMS_Lista_Foreger\bin\Debug\net5.0\AMS_Lista_Foreger.dll
+C:\projetos\ams\1ano\semestre2\arraycollection\AMS_Lista_Foreger\bin\Debug\net5.0\ref\AMS_Lista_Foreger.dll
+C:\projetos\ams\1ano\semestre2\arraycollection\AMS_Lista_Foreger\bin\Debug\net5.0\AMS_Lista_Foreger.pdb
+C:\projetos\ams\1ano\semestre2\arraycollection\AMS_Lista_Foreger\obj\Debug\net5.0\AMS_Lista_Foreger.csproj.AssemblyReference.cache
+C:\projetos\ams\1ano\semestre2\arraycollection\AMS_Lista_Foreger\obj\Debug\net5.0\AMS_Lista_Foreger.GeneratedMSBuildEditorConfig.editorconfig
+C:\projetos\ams\1ano\semestre2\arraycollection\AMS_Lista_Foreger\obj\Debug\net5.0\AMS_Lista_Foreger.AssemblyInfoInputs.cache
+C:\projetos\ams\1ano\semestre2\arraycollection\AMS_Lista_Foreger\obj\Debug\net5.0\AMS_Lista_Foreger.AssemblyInfo.cs
+C:\projetos\ams\1ano\semestre2\arraycollection\AMS_Lista_Foreger\obj\Debug\net5.0\AMS_Lista_Foreger.csproj.CoreCompileInputs.cache
+C:\projetos\ams\1ano\semestre2\arraycollection\AMS_Lista_Foreger\obj\Debug\net5.0\AMS_Lista_Foreger.dll
+C:\projetos\ams\1ano\semestre2\arraycollection\AMS_Lista_Foreger\obj\Debug\net5.0\ref\AMS_Lista_Foreger.dll
+C:\projetos\ams\1ano\semestre2\arraycollection\AMS_Lista_Foreger\obj\Debug\net5.0\AMS_Lista_Foreger.pdb
+C:\projetos\ams\1ano\semestre2\arraycollection\AMS_Lista_Foreger\obj\Debug\net5.0\AMS_Lista_Foreger.genruntimeconfig.cache
