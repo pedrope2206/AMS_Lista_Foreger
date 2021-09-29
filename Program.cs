@@ -18,6 +18,7 @@ namespace AMS_Lista_Foreger
             {
 
               Console.WriteLine(mercado);
+              
 
             }
           }
